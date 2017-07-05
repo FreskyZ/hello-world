@@ -1,1 +1,3 @@
 Add new a new text file after initial commit
+
+Second commit added content of the file
